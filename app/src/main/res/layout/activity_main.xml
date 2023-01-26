@@ -24,7 +24,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:text="TASK"
-                android:textColor="@color/black"
+                android:textColor="@color/purple_200"
                 android:textSize="15sp"
                 android:textStyle="bold"
                 app:layout_constraintStart_toStartOf="parent"
